@@ -4,3 +4,12 @@
 - Course Instructor: Dr. Gautam Shroff 
 - Course Website: https://sites.google.com/view/advanced-ml/home.
 
+
+
+
+
+
+# Result:
+If you try to train simple MLP with two target,target_5 and target_10, it sticks to 72% in low_noise data, sticks to 58% in high noise.
+if you try to train simple MLP with successive targets,target_5 and target_10 then low_noise=
+
