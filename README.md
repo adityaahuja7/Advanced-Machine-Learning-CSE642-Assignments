@@ -4,8 +4,6 @@
 
 **Date:** March 16, 2024
 
-**Link to GitHub Repository:** https://github.com/your-repo/link
-
 ## Milestone-1 Update
 
 ### Folder Structure
